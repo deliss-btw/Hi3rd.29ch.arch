@@ -10,7 +10,7 @@ body {
 }
 
 html {
-  background: url(C:/Users/Матвей/Desktop/29chap/bg29.png) no-repeat center center;
+  background: url(background.png) no-repeat center center;
   min-height: 100%;
   background-size: cover;
 }
