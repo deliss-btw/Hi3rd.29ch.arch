@@ -1,0 +1,148 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+
+}
+
+body { 
+  text-align: center;
+}
+
+html {
+  background: url(C:/Users/Матвей/Desktop/29chap/bg29.png) no-repeat center center;
+  min-height: 100%;
+  background-size: cover;
+}
+
+autxt {
+  font-family: Alegreya;
+  color:white;
+  font-size: 21px;
+  position: fixed;
+  top: 75px;
+  right: 5px;
+  left: 47%;
+  width: 100%;
+}
+
+a {
+  opacity: 0%;
+}
+
+a:hover {
+  opacity: 100%;
+}
+
+.eden { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:120.5px;
+  height:298.5px;
+  left: 730px;
+  bottom: 170px;
+  transform: skewX(-2deg)
+}
+.elysia { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:130.5px;
+  height:330.5px;
+  left: 895px;
+  bottom: 365px;
+}
+
+
+
+@keyframes text-focus-in {
+
+  0% {
+  -webkit-filter: blur(12px);
+  filter: blur(12px);
+  opacity: 0;
+  }
+
+  100% {
+  -webkit-filter: blur(0px);
+  filter: blur(0px);
+  opacity: 1;
+  }
+
+}
+
+
+h1 {
+  font-family: Alegreya;
+  color: white; 
+  font-size: 64px;
+  text-shadow: 0px 0px 35.8512px #ffffff
+ }
+
+.Buttons a {
+  margin-left: 12px;
+  margin-right: 13px;
+}
+.Icon { 
+  position: fixed;
+  top: 0px;
+  left: 47%; 
+  width: 100%; 
+}
+
+.square {
+  position: relative;
+  font-family: Alegreya;
+  font-size: 30px;
+  width: 1745px;
+  height: 670px;
+  margin: auto;
+}
+
+table {
+  color: #412d30;
+}
+
+.ntable-wrapper {
+  overflow-x: auto;
+  margin-bottom: 1rem;
+  word-break: normal!important;
+}
+
+.ntable th {
+  background-color: rgba(31, 31, 31, 0.70);
+  opacity: 100%;
+  border: 2px solid #fff;
+  color: #fff;
+  padding: 7px 10px;
+}
+.ntable td {
+  background-color: rgba(94, 94, 94, 0.40);
+  vertical-align: top;
+  padding: 5px;
+  border-left: 2px solid #fff;
+  border-top: 1px solid #fff;
+  border-right: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  color: #fff;
+}
+
+.Clownfish {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+position: relative;
+width: 140px;
+height: 291.5px;
+
+width: 120px;
+height: 271.5px;
+background: rgba(255, 255, 255, 0.1);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+}

@@ -1,0 +1,56 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+
+}
+
+body { 
+  text-align: center;
+}
+
+html {
+  background: url(C:/Users/Матвей/Desktop/29chap/Elya.png) no-repeat center center;
+  min-height: 100%;
+  background-size: cover;
+}
+
+autxt {
+  font-family: Alegreya;
+  color:white;
+  font-size: 62px;
+  position: fixed;
+  top: 25px;
+  right: 10px;
+  left: 43%;
+  width: 100%;
+}
+
+.eden { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:120.5px;
+  height:298.5px;
+  left: 730px;
+  bottom: 170px;
+  transform: skewX(-2deg)
+}
+.elysia { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:130.5px;
+  height:330.5px;
+  left: 895px;
+  bottom: 365px;
+}
+
+
+.Back { 
+  position: fixed;
+  font-family: Alegreya;
+  color:white;
+  font-size: 30px;
+  top: 0px;
+  left: 47%; 
+  width: 100%; 
+}
