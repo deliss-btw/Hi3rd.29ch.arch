@@ -1,0 +1,37 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+
+}
+
+body { 
+  text-align: center;
+}
+
+html {
+  background: url(https://github.com/deliss-btw/29chapterarchivesRU/blob/main/VillV.png?raw=true) no-repeat center center;
+  min-height: 100%;
+  background-size: cover;
+}
+
+autxt {
+  font-family: Alegreya;
+  color:white;
+  font-size: 62px;
+  position: fixed;
+  top: 25px;
+  right: 10px;
+  left: 43%;
+  width: 100%;
+}
+
+.Back { 
+  position: fixed;
+  font-family: Alegreya;
+  color:white;
+  font-size: 30px;
+  top: 0px;
+  left: 47%; 
+  width: 100%; 
+}
