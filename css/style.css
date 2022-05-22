@@ -36,7 +36,7 @@ a:hover {
 }
 
 .eden { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:120.5px;
   height:298.5px;
@@ -45,7 +45,7 @@ a:hover {
   transform: skewX(-2deg)
 }
 .kalpas { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:110.5px;
   height:274.5px;
@@ -54,7 +54,7 @@ a:hover {
   transform: skewX(-2deg)
 }
 .sakura { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:127.5px;
   height:317px;
@@ -63,7 +63,7 @@ a:hover {
   transform: skewX(-3deg)
 }
 .kosma { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:123.5px;
   height:290px;
@@ -72,7 +72,7 @@ a:hover {
   transform: skewX(-4deg)
 }
 .pardofelis { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:113.5px;
   height:274px;
@@ -81,7 +81,7 @@ a:hover {
   transform: skewX(-4.5deg)
 }
 .elysia { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:130.5px;
   height:330.5px;
@@ -89,7 +89,7 @@ a:hover {
   bottom: 38%;
 }
 .kevin { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:117.5px;
   height:300.5px;
@@ -97,7 +97,7 @@ a:hover {
   bottom: 54.5%;
 }
 .villv { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:117.5px;
   height:305.5px;
@@ -106,7 +106,7 @@ a:hover {
   transform: skewX(1deg)
 }
 .aponia { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:100.5px;
   height:252.5px;
@@ -115,7 +115,7 @@ a:hover {
   transform: skewX(-1deg)
 }
 .su { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:105px;
   height:257px;
@@ -124,7 +124,7 @@ a:hover {
   transform: skewX(2deg)
 }
 .mobius { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:105px;
   height:272px;
@@ -133,7 +133,7 @@ a:hover {
   transform: skewX(4deg)
 }
 .hua { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:110px;
   height:272px;
@@ -142,7 +142,7 @@ a:hover {
   transform: skewX(4.6deg)
 }
 .griseo { 
-  position: fixed;
+  position: absolute;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:117px;
   height:282px;
