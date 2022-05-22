@@ -10,7 +10,7 @@ body {
 }
 
 html {
-  background: url(https://github.com/deliss-btw/29chapterarchivesRU/blob/main/bg.png?raw=true) no-repeat center center;
+  background: url(https://raw.githubusercontent.com/deliss-btw/29chapterarchivesRU/main/bg.png) no-repeat center center;
   min-height: 100%;
   background-size: contain;
 }
