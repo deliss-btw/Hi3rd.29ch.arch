@@ -40,19 +40,116 @@ a:hover {
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:120.5px;
   height:298.5px;
-  left: 730px;
-  bottom: 170px;
+  left: 38%;
+  bottom: 17.5%;
   transform: skewX(-2deg)
+}
+.kalpas { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:110.5px;
+  height:274.5px;
+  left: 30.5%;
+  bottom: 44.8%;
+  transform: skewX(-2deg)
+}
+.sakura { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:127.5px;
+  height:317px;
+  left: 22.9%;
+  bottom: 23.6%;
+  transform: skewX(-3deg)
+}
+.kosma { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:123.5px;
+  height:290px;
+  left: 20.5%;
+  bottom: 58.6%;
+  transform: skewX(-4deg)
+}
+.pardofelis { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:113.5px;
+  height:274px;
+  left: 11.2%;
+  bottom: 34.2%;
+  transform: skewX(-4.5deg)
 }
 .elysia { 
   position: fixed;
   background-color:rgba(255, 255, 255, 0.10000000149011612);
   width:130.5px;
   height:330.5px;
-  left: 895px;
-  bottom: 365px;
+  left: 46.5%;
+  bottom: 38%;
 }
-
+.kevin { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:117.5px;
+  height:300.5px;
+  left: 54.8%;
+  bottom: 54.5%;
+}
+.villv { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:117.5px;
+  height:305.5px;
+  left: 58.8%;
+  bottom: 20%;
+  transform: skewX(1deg)
+}
+.aponia { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:100.5px;
+  height:252.5px;
+  left: 40%;
+  bottom: 62%;
+  transform: skewX(-1deg)
+}
+.su { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:105px;
+  height:257px;
+  left: 67.5%;
+  bottom: 49%;
+  transform: skewX(2deg)
+}
+.mobius { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:105px;
+  height:272px;
+  left: 75.2%;
+  bottom: 26%;
+  transform: skewX(4deg)
+}
+.hua { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:110px;
+  height:272px;
+  left: 83.3%;
+  bottom: 17%;
+  transform: skewX(4.6deg)
+}
+.griseo { 
+  position: fixed;
+  background-color:rgba(255, 255, 255, 0.10000000149011612);
+  width:117px;
+  height:282px;
+  left: 80.2%;
+  bottom: 51.7%;
+  transform: skewX(4.6deg)
+}
 
 
 @keyframes text-focus-in {
